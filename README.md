@@ -16,4 +16,4 @@ To design an interactive, contactless virtual painting system that responds to h
 1. The camera captures real-time video input.  
 2. The system detects hand landmarks using Mediapipe.  
 3. Finger gestures are recognized.  
-4. Depending on the gesture, actions like drawing, erasing, or color changing are performed.
+4. Depending on the gesture, actions like drawing, erasing certain parts of the drawing, clearing the screen or color changing are performed.
